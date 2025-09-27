@@ -17,7 +17,7 @@ O objetivo é desenvolver um dashboard criativo e com foco em narrativa (data st
 https://docs.google.com/document/d/1OTn4LwIwWSa5ziMnmfRaajq5SrMWh7LK/edit
 
 # Base de Dados 
-
+https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?edicao=38698&t=downloads
 
 # Análise prévia e Resultado parcial do Dashboard Criativo
 
