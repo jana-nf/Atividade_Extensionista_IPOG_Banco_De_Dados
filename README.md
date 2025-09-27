@@ -3,14 +3,14 @@ Dashboard Criativo do Percentual de Crescimento de Etnias na Região Norte do Pa
 
 # Objetivo geral: 
 
-"Dashboards para impacto social" Seu projeto com foco em data storytelling é uma abordagem criativa e impactante. Para a próxima etapa, sugere-se a identificação de um parceiro comunitário ou uma ONG. Isso proporcionará um propósito claro ao projeto e um público definido. Lembre-se que o objetivo é transformar dados complexos em narrativas visuais de fácil compreensão. Para o envolvimento da comunidade, trabalhe em colaboração direta com a ONG escolhida, envolvendo seus colaboradores e beneficiários no processo de design e feedback. O dashboard pode se tornar uma ferramenta de transparência para a comunidade, mostrando o impacto real do trabalho social.
+O objetivo é desenvolver um dashboard criativo e com foco em narrativa (data storytelling) para simplificar dados de impacto social complexos. Este painel será uma ferramenta de transparência para a comunidade, mostrando os resultados concretos da colaboração entre uma organização social/ONG e a faculdade.
 
 # Objetivos Específicos: 
 
-- Faça entrevistas com líderes comunitários e representantes de diferentes etnias para garantir que a coleta de dados seja ética e representativa. Apresente os resultados em reuniões abertas, promovendo um debate sobre os dados e suas implicações.
-- Identificação e delimitação da comunidade étnica local que será estudada.
-- Identificação de Fontes de Dados: Levantamento de fontes de dados secundários existentes (IBGE, secretarias municipais/estaduais, etc.) que possam fornecer dados brutos de crescimento populacional ou indicadores sociodemográficos.
-- Identificação preliminar de líderes comunitários e representantes de diferentes etnias para futuras entrevistas.
+- Identificar as fontes de dados: Levantamento de fontes de dados secundários existentes (IBGE, secretarias municipais/estaduais, etc.) que possam fornecer dados brutos de crescimento populacional ou indicadores sociodemográficos;
+- Identificar e delimitar a comunidade étnica local que será estudada;
+- Fazer entrevistas com líderes comunitários e representantes de diferentes etnias para garantir que a coleta de dados seja ética e representativa. 
+- Apresentar os resultados em reuniões abertas, promovendo um debate sobre os dados e suas implicações.
 
 
 # Relatório de Acompanhamento da Atividade Extensionista - Data de entrega: 30/09/25
