@@ -22,6 +22,9 @@ https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2
 # Questionário sobre Identidade Étnica da População na Região Norte.
 https://docs.google.com/forms/d/e/1FAIpQLSeIngey-J9mOo2kWRcIOOTlvhsOlHKqnZnBKY7Ka9cX2UsUWg/viewform?usp=dialog
 
+# Planilha do Mapeamento do Projeto no CBL (Challenge Based Learning)
+https://docs.google.com/spreadsheets/d/13KuoKpR2dqc0D9C9Tr-oY9_kAsnLT4wCvkJeufC4CGE/edit?usp=sharing
+
 # Análise prévia e Resultado parcial do Dashboard Criativo
 
 
