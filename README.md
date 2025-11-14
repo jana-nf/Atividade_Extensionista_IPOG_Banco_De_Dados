@@ -35,5 +35,5 @@ O dashboard foi elaborado baseado nos feedbacks direto da comunidade, garantindo
 Disponível em: 
 
 # Reunião 
-![ReuniaoAtivExtensionista.jpeg](C:\Users\Cliente\Pictures\Saved Pictures\ReuniaoAtivExtensionista.jpeg)
+![Reunião de Acompanhamento IPOG](ReuniaoAtivExtensionista.jpeg)
 
