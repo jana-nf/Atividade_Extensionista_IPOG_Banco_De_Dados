@@ -35,4 +35,4 @@ O dashboard foi elaborado baseado nos feedbacks direto da comunidade, garantindo
 Disponível em: 
 
 # Reunião 
-<img src="ReuniaoAtivExtensionista.jpeg" alt="Reunião Atividade Extensionista">
+<img src="imagens/ReuniaoAtivExtensionista.jpeg" alt="Reunião Atividade Extensionista">
