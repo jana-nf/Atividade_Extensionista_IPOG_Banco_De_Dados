@@ -29,6 +29,7 @@ https://docs.google.com/spreadsheets/d/13KuoKpR2dqc0D9C9Tr-oY9_kAsnLT4wCvkJeufC4
 # Dashboard Criativo
 O dashboard foi elaborado baseado nos feedbacks direto da comunidade, garantindo a relevância e adequação da ferramenta aos seus usuários primários. 
 Disponível em: 
+![Dashboard_Criativo_IPOG](PowerBI.jpg)
 
 # Reunião 
 ![Reunião de Acompanhamento IPOG](ReuniaoAtivExtensionista.jpeg)
