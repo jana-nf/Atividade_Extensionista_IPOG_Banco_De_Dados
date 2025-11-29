@@ -17,10 +17,6 @@ Desenvolver um dashboard criativo com foco em narrativa (data storytelling) para
 # Revisão Bibliográfica: 
 O mapeamento bibliográfico é focado em dois pilares: o contexto histórico e demográfico da comunidade a ser estudada e o estudo de metodologias éticas para a coleta de dados com grupos étnicos. Para guiar o desenvolvimento do dashboard de transparência sobre o crescimento étnico na Região Norte, foi adotada a metodologia Challenge Based Learning (CBL). Esta escolha metodológica garante que o projeto seja autêntico, colaborativo e orientado para a ação, colocando a comunidade como elemento central no processo de aprendizagem e construção da solução.
 
-# Relatório da Atividade Extensionista - Data de entrega: 30/11/25
-Para a publicação, foi elaborado um Relatório Final da Atividade Extensionista que não só documenta o processo e os resultados, mas também inclui propostas concretas para a continuidade e atualização autônoma do dashboard pela própria comunidade, consolidando o seu papel como co-proprietária e garantindo o impacto a longo prazo. 
-O relatório está disponível em: https://docs.google.com/document/d/1OTn4LwIwWSa5ziMnmfRaajq5SrMWh7LK/edit
-
 # Base de Dados 
 https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?edicao=38698&t=downloads
 
