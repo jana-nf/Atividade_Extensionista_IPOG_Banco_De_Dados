@@ -27,8 +27,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSeIngey-J9mOo2kWRcIOOTlvhsOlHKqnZnBKY7K
 https://docs.google.com/spreadsheets/d/13KuoKpR2dqc0D9C9Tr-oY9_kAsnLT4wCvkJeufC4CGE/edit?usp=sharing
 
 # Dashboard Criativo
-O dashboard foi elaborado baseado nos feedbacks direto da comunidade, garantindo a relevância e adequação da ferramenta aos seus usuários primários. 
-Disponível em: 
+O dashboard foi criado no PowerBI para garantir a relevância e adequação da ferramenta aos seus usuários. 
+A pasta com os arquivos do PowerBI está disponível em "Files"
 ![Dashboard_Criativo_IPOG](PowerBI.jpg)
 
 # Reunião 
